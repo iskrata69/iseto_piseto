@@ -1,8 +1,13 @@
 	h1 {
     	
 	}
+	th { background-color: white;
+	}
+	th:hover {
+		color: red;
+	}
 	div p {
-		background-color: brown;
+		background-color: yellow;
 		}
 	p::first-letter {
  		color: hsl(200, 20%, 10%);
